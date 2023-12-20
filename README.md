@@ -6,7 +6,7 @@
 React Native Android module to interface with Zebra's DataWedge Intent API
 
 
-This module was ported from [darryncampbell/react-native-datawedge-intents](https://github.com/darryncampbell/react-native-datawedge-intents). This would not exist without the work of the original author, [Darryn Campbell](https://github.com/darryncampbell).
+This module was ported from [darryncampbell/react-native-datawedge-intents](https://github.com/darryncampbell/react-native-datawedge-intents) which was archived by the owner on Mar 1, 2022 and is now read-only. This would not exist without the work of the original author, [Darryn Campbell](https://github.com/darryncampbell).
 
 
 [![npm version](http://img.shields.io/npm/v/rjc-react-native-datawedge-intents.svg?style=flat-square)](https://npmjs.org/package/rjc-react-native-datawedge-intents "View this project on npm")
