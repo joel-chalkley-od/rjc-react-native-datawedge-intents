@@ -1,4 +1,4 @@
-package com.darryncampbell.rndatawedgeintents;
+package com.rjc.rndatawedgeintents;
 
 import java.util.Observable;
 import java.util.Observer;

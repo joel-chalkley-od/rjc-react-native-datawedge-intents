@@ -1,4 +1,4 @@
-package com.darryncampbell.rndatawedgeintents;
+package com.rjc.rndatawedgeintents;
 
 import android.content.Intent;
 import android.content.ComponentName;
